@@ -1,0 +1,66 @@
+{
+    "Channel": {
+        "movies": [
+            {
+                "title": "Telugu Movie1 ",
+                "director": "Director1",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie2 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie3 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie3 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie3 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie3 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie3 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie3 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie3 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie3 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie3 ",
+                "director": "Director2",
+                "year": 2022
+            },
+            {
+                "title": "Telugu Movie10 ",
+                "director": "Director5",
+                "year": 2024
+            }
+        ]
+    }
+}
